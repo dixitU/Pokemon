@@ -1,4 +1,4 @@
-package com.pokemon
+package com.pokemon.android
 
 import android.app.Application
 import com.facebook.react.PackageList

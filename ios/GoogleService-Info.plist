@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>912396129265-alealfun1okkp4g8rcegk6amv1dpg59i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.912396129265-alealfun1okkp4g8rcegk6amv1dpg59i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>912396129265-shksichobrutspl4eivl89t9enevqvmn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnUHeprgI8IxiTn_SUlCgf9kgs8Tvzt7s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>912396129265</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pokemon.ios</string>
+	<key>PROJECT_ID</key>
+	<string>pokemon-8916f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokemon-8916f.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:912396129265:ios:1d23316e29ef708987aa50</string>
+</dict>
+</plist>
