@@ -70,7 +70,7 @@ const styles = (theme: ThemeType) =>
       borderColor: theme.inactiveButtonColor,
       marginLeft: Size._15,
       paddingHorizontal: Size._15,
-      paddingVertical: Platform.OS === 'ios' ? Size._15 : 0,
+      paddingVertical: Size._15,
       borderRadius: Size._10,
     },
     backImage: {
