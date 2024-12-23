@@ -1,6 +1,7 @@
 import React from 'react';
 import {
   Image,
+  Platform,
   StyleSheet,
   Text,
   TextInput,
@@ -69,6 +70,7 @@ const styles = (theme: ThemeType) =>
       borderColor: theme.inactiveButtonColor,
       marginLeft: Size._15,
       paddingHorizontal: Size._15,
+      paddingVertical: Platform.OS === 'ios' ? Size._15 : 0,
       borderRadius: Size._10,
     },
     backImage: {

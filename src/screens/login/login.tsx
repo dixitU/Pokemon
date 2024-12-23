@@ -30,8 +30,8 @@ function Login() {
     GoogleSignin.configure({
       webClientId:
         '912396129265-90eq61l4bq1hbt2lpp0ka5vsbp8atoga.apps.googleusercontent.com',
-      iosClientId:
-        '912396129265-alealfun1okkp4g8rcegk6amv1dpg59i.apps.googleusercontent.com',
+      // iosClientId:
+      //   '912396129265-alealfun1okkp4g8rcegk6amv1dpg59i.apps.googleusercontent.com',
       offlineAccess: true,
       scopes: ['profile', 'email'],
     });
